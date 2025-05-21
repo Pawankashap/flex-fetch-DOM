@@ -1,0 +1,25 @@
+{
+  "animalData": [
+    {
+      "name": "Tiger",
+      "imageURL": "https://paigntonzoo.org.uk/wp-content/uploads/2021/04/230202-PZ-Sumatran-Tiger-HR-CC-02-scaled.jpg",
+      "description": "The tiger is a large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes.",
+      "donation": 10,
+      "id": 1
+    },
+    {
+      "name": "Cat",
+      "imageURL": "https://hellobark.com/wp-content/uploads//black-and-white-cat.jpg",
+      "description": "A cat is a domesticated carnivorous mammal of the family Felidae, commonly kept as a pet. They are known for their independence, playful nature, and ability to purr. Cats have sharp claws and teeth, making them skilled hunters. They are a social species but also solitary hunters, particularly active at dawn and dusk.",
+      "donation": 0,
+      "id": 2
+    },
+    {
+      "name": "Brown Bear",
+      "imageURL": "https://files.worldwildlife.org/wwfcmsprod/images/Brown_Bear_/hero_full/9kavvtzv2t_brownbear_hero.jpg",
+      "description": "Bears are large, plantigrade mammals belonging to the family Ursidae. They are found in various habitats throughout the Northern Hemisphere and parts of the Southern Hemisphere. Bears are carnivorans, meaning they belong to the order Carnivora, and are classified as caniforms, or doglike carnivorans. ",
+      "donation": 50,
+      "id": 3
+    }
+  ]
+}
